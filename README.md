@@ -1,4 +1,4 @@
-# Period-Table1
+# Periodic-Table1
 <!DOCTYPE html>
 <html lang="en">
 <head>
